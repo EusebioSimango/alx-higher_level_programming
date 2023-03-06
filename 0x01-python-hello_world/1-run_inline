@@ -1,0 +1,3 @@
+#!/usr/bin/bash
+echo $PYCODE > 1-main.py
+python3 main.py
